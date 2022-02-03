@@ -1,4 +1,4 @@
-module github.com/felixge/go-xxd
+module github.com/pedroalbanese/go-xxd
 
 go 1.16
 
